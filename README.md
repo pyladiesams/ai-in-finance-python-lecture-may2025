@@ -6,7 +6,6 @@ In this lecture we will explore how AI can be used in Finance, how to create a s
 
 ---
 
-
 ***Learning objectives***
 
 After completing this lecture, you will be able to:
@@ -15,9 +14,7 @@ After completing this lecture, you will be able to:
 * create a simple AI chatbot in Python
 * combat the consequences of using such an AI chatbot and other AI models in real life
 
-
 ---
-
 
 ***Prerequisites***:
 * Laptop with access to the internet
@@ -28,14 +25,13 @@ After completing this lecture, you will be able to:
 
 ### Google Colab notebook option
 
-* Open [Colab notebook](link)
-
-* Create a copy of this notebook in your Google Drive. Go to Menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window.
-
+* Open [Colab notebook](https://colab.research.google.com/drive/1XRVzU4ne29xPGBuRHrhxS7R2wjbseBbM?usp=sharing)
+* Navigate to File -> Save a copy in Drive
+  
 ### Jupyter notebook/lab option
 
 * install libraries from [requirements.txt](requirements.txt) with pip
-* start [Jupyter notebook](link)
+* start [Jupyter notebook](materials/Python_Lecture_AI_in_Finance_2025.ipynb)
 
 ## Credits
 This lecture was set up by @una-gal and @pyladiesams
