@@ -1,50 +1,43 @@
+# Python Lecture: AI in Finance
+### Level: Beginner
+**Instructor:** [Una Galyeva](https://www.linkedin.com/in/unagalyeva/)
 
-# { WORKSHOP NAME } 
-### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
+In this lecture we will explore how AI can be used in Finance, how to create a simple AI chatbot, and the consequences of using such an AI chatbot and other AI models in real life.
 
-## Workshop description
-Describe why your topic is important and what you want to share with your audience
+---
 
-## Requirements
-* PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
-* Google account if you want to use [Google Colab](https://colab.research.google.com/)
- 
+
+***Learning objectives***
+
+After completing this lecture, you will be able to:
+
+* explain how AI can be used in Finance
+* create a simple AI chatbot in Python
+* combat the consequences of using such an AI chatbot and other AI models in real life
+
+
+---
+
+
+***Prerequisites***:
+* Laptop with access to the internet
+* Basic Python knowledge
+* Google account (to execute code in a Google Colab notebook)
+
 ## Usage
-### with uv
-Run the following code:
-```bash
-git clone <github-url-of-workshop-repo>
-cd <name-of-repo>
 
-# create and activate venv, install dependencies
-uv sync
-```
-### with Google collab
-1. Visit [Google Colab](https://colab.research.google.com/)
-2. In the top left corner select "File" &#8594; "Open Notebook"
-3. Under "GitHub", enter the URL of the repo of this workshop
-4. Select one of the notebooks within the repo.
-5. At the top of the notebook, add a Code cell and run the following code:
-```bash
-!git clone <github-url-of-workshop-repo>
-%cd <name-of-repo>
-!pip install -r requirements.txt
-```
-### for a workshop giver
-To get started, open the `pyproject.toml` file and set the required Python version. The pre-selected version 3.8 is generally a safe choice for most use cases.
+### Google Colab notebook option
 
-After you have specified the Python version, you can create a virtual environment with `uv venv` and add packages with `uv add <package>`. Before the workshop, you can generate a requirements.txt file, which is needed e.g. for running code in GoogleColab, by running `uv export > requirements.txt`.
+* Open [Colab notebook](link)
 
-## Video record
-Re-watch [this YouTube stream](link)
+* Create a copy of this notebook in your Google Drive. Go to Menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window.
+
+### Jupyter notebook/lab option
+
+* install libraries from [requirements.txt](requirements.txt) with pip
+* start [Jupyter notebook](link)
+
+If you got stuck, you can find solutions [here](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
-
-
-## Appendix
-### Pre-Commit Hooks
-
-To ensure our code looks beautiful, PyLadies uses pre-commit hooks. You can enable them by running `pre-commit install`. You may have to install `pre-commit` first, using `uv sync`, `uv pip install pre-commit` or `pip install pre-commit`.
-
-Happy Coding :)
+This lecture was set up by @una-gal and @pyladiesams
