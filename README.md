@@ -37,7 +37,5 @@ After completing this lecture, you will be able to:
 * install libraries from [requirements.txt](requirements.txt) with pip
 * start [Jupyter notebook](link)
 
-If you got stuck, you can find solutions [here](link)
-
 ## Credits
 This lecture was set up by @una-gal and @pyladiesams
